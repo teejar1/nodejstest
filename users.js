@@ -23,12 +23,7 @@
     "name": "Aokiji",
     "position": "Former Marine Admiral"
 },
-{
-    "id": 5,
-    "username": "shanks",
-    "name": "'Red-Haired' Shanks",
-    "position": "The 4 Emperors"
-}
+
 ];
  
 

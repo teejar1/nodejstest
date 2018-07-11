@@ -1,0 +1,27 @@
+{
+  "name": "testing-nodejs",
+  "version": "1.0.0",
+  "description": "Node.js Test",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "nontawat",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.3"
+  },
+  "devDependencies": {},
+  "keywords": [
+    "test"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/teejar1/nodejs.git"
+  },
+  "bugs": {
+    "url": "https://github.com/teejar1/nodejs/issues"
+  },
+  "homepage": "https://github.com/teejar1/nodejs#readme"
+}

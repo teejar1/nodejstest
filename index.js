@@ -14,9 +14,6 @@ app.use(bodyParser.urlencoded({
 app.get('/', function (req, res) {
     res.send('<h1>Hello Node.js</h1>');
 });
-app.get('/index', function (req, res) {
-    res.send('<h1>This is index page</h1>');
-});
 app.get('/user', function (req, res) {
     res.json(users.findAll());
 });
